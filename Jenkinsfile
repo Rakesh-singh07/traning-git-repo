@@ -12,13 +12,13 @@ pipeline {
             }
         }
         
-        stage("Test-Quamar") { 
+        stage("Test-amit") { 
             steps {
                 echo 'Test a iccp application.....'
             }
         }    
        
-        stage("Deploy-iccpinfotech-by-tarun") {    
+        stage("Deploy-in-india") {    
             steps {
                 echo 'Deploy a iccp application.....'
             }
