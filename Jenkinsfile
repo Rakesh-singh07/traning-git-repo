@@ -1,7 +1,7 @@
 pipeline {
     agent any
     stages {
-        stage("Pull-Pankaj") { 
+        stage("Pull-Ravi") { 
             steps {
                 echo 'Test a iccp application.....'
             }
